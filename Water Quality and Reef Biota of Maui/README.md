@@ -1,6 +1,6 @@
 # Impact of Submarine Groundwater Discharge on Marine Water Quality and Reef Biota of Maui
 
-## Processing of landsat images
+## Raster Manipulation & Image Processing
 
 ### Visualization of landsat bands 1 - 6
 ![Landsat images](ImageAnalysis/Bands_1-6.png)
@@ -22,5 +22,5 @@ D - Māʻalaea,
 E - Kūʻau,
 F - Waiehu
 
-![Locations on Maui studied](ImageAnalysis/Maoi_sites_studied.png)
+![Coastline Extraction, Masking & distance calculation](ImageAnalysis/Transition Map.png)
 
