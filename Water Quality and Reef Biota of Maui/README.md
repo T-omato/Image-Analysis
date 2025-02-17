@@ -2,16 +2,23 @@
 
 ## Raster Manipulation & Image Processing
 
+- Reading geospatial data (raster and vector formats)
+
 ### Visualization of landsat bands 1 - 6
 ![Landsat images](ImageAnalysis/Bands_1-6.png)
 
 ## Raster Manipulation & Image Processing
 
-![Raster Classification](ImageAnalysis/Raster_classification.png)
+- Stacking raster layers to create multispectral images.
+- Cropping and masking images (reducing image size, isolating AOIs).
+- Extracting features from raster datasets
+
+![Raster Classification](ImageAnalysis/cropping.png)
+
+- Histogram-based analysis for feature identification.
+- K-means clustering for land classification
 
 ![Raster Classification](ImageAnalysis/Raster_classification.png)
-
-![Cropping everything but the island being studied](ImageAnalysis/landsat_bands_1-6_cropped.png)
 
 ## Visualizing Maui study points
 
@@ -24,7 +31,13 @@ E - Kūʻau,
 F - Waiehu
 
 ## Coastline Extraction, Masking & Distance Calculation
-![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
 
-Transition map of the coastline allows to visualize and calculate distances on water between study points. Here the cost map for the distance between Māʻalaea, and Kūʻau is shown on a colorized map of the island where the rgb channels correspond to bands #: r = "B5", g = "B4", b = "B3".
+- Identifying land-water boundaries using classification.
+- Creating masks for land and water.
+- Extracting coastline features using spatial operations.
+- Buffering coastlines to define zones.
+- Rasterizing vector data for further analysis.
+- Computing least-cost paths and transition matrices for spatial movement.
+
+![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
 
