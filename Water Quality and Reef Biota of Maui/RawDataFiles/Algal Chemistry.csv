@@ -1,0 +1,189 @@
+Sample Name,Location,Site,Species,Date Collected,Sample Type,Latitude,Longitude,Tissue N (% dry mass),C:N,Tissue ?15N (‰)
+HMA11U1,Honomanu Bay,HMA-11,Ulva spp.,7/10/2013,Deployed,20.86152000,-156.16447000,1.4,19.4,6.2
+HMA12U1,Honomanu Bay,HMA-12,Ulva spp.,7/10/2013,Deployed,20.86168000,-156.16508000,1.4,18.4,6.4
+HMA13U1,Honomanu Bay,HMA-13,Ulva spp.,7/10/2013,Deployed,20.86202000,-156.16567000,1.5,18.9,6.8
+HMA14U1,Honomanu Bay,HMA-14,Ulva spp.,7/10/2013,Deployed,20.86242000,-156.16612000,1.1,24.0,7.0
+HMA16U1,Honomanu Bay,HMA-16,Ulva spp.,7/10/2013,Deployed,20.86137000,-156.16590000,1.1,22.5,6.1
+HMA17U1,Honomanu Bay,HMA-17,Ulva spp.,7/10/2013,Deployed,20.86537000,-156.16423000,1.1,26.5,6.3
+HMA18U1,Honomanu Bay,HMA-18,Ulva spp.,7/10/2013,Deployed,20.86348000,-156.16508000,1.2,23.7,7.3
+HMA19U1,Honomanu Bay,HMA-19,Ulva spp.,7/10/2013,Deployed,20.86280000,-156.16532000,1.3,21.4,7.2
+HMA20U1,Honomanu Bay,HMA-20,Ulva spp.,7/10/2013,Deployed,20.86235000,-156.16547000,1.1,25.5,5.9
+KWA14U1,Kahului Bay,KWA-14,Ulva spp.,7/25/2013,Deployed,20.90288000,-156.45728000,1.8,14.0,5.7
+KWA17U1,Kahului Bay,KWA-17,Ulva spp.,7/25/2013,Deployed,20.89845000,-156.46176000,3.1,9.3,9.1
+KWA18U1,Kahului Bay,KWA-18,Ulva spp.,7/25/2013,Deployed,20.89860000,-156.46455000,3.5,8.2,7.4
+KWA19U1,Kahului Bay,KWA-19,Ulva spp.,7/25/2013,Deployed,20.90141000,-156.46483000,1.3,19.3,6.2
+KWA20U1,Kahului Bay,KWA-20,Ulva spp.,7/25/2013,Deployed,20.90505000,-156.46538000,3.1,18.5,6.8
+KWA21U1,Kahului Bay,KWA-21,Ulva spp.,7/25/2013,Deployed,20.90552000,-156.45685000,1.5,19.3,6.0
+KWA23U1,Kahului Bay,KWA-23,Ulva spp.,7/25/2013,Deployed,20.90092000,-156.45730000,1.7,15.4,6.4
+KWA24U1,Kahului Bay,KWA-24,Ulva spp.,7/25/2013,Deployed,20.89945000,-156.45715000,1.7,15.9,8.3
+KWA25U1,Kahului Bay,KWA-25,Ulva spp.,7/25/2013,Deployed,20.89847000,-156.45924000,2.6,10.4,9.7
+KWA26U1,Kahului Bay,KWA-26,Ulva spp.,7/25/2013,Deployed,20.89855000,-156.45712000,2.4,11.7,8.7
+KWA27U1,Kahului Bay,KWA-27,Ulva spp.,7/25/2013,Deployed,20.89827000,-156.45457000,3.0,9.5,8.9
+KWA28U1,Kahului Bay,KWA-28,Ulva spp.,7/25/2013,Deployed,20.89826000,-156.45160000,3.1,8.8,7.1
+KWA29U1,Kahului Bay,KWA-29,Ulva spp.,7/25/2013,Deployed,20.90474000,-156.44746000,2.2,12.5,5.4
+KWA30U1,Kahului Bay,KWA-30,Ulva spp.,7/25/2013,Deployed,20.90159000,-156.44748000,2.5,11.0,5.9
+KWA31U1,Kahului Bay,KWA-31,Ulva spp.,7/25/2013,Deployed,20.89939000,-156.44702000,3.4,8.9,6.3
+KWA32U1,Kahului Bay,KWA-32,Ulva spp.,7/25/2013,Deployed,20.90085000,-156.44133000,3.5,8.5,5.8
+TVA10U2,Kuau Bay,TVA-10,Ulva spp.,7/10/2013,Deployed,20.92723000,-156.37257000,1.9,13.8,5.3
+TVA1U2,Kuau Bay,TVA-1,Ulva spp.,7/10/2013,Deployed,20.92255000,-156.37508000,3.3,9.0,3.1
+TVA2U2,Kuau Bay,TVA-2,Ulva spp.,7/10/2013,Deployed,20.92283000,-156.37433000,3.6,8.4,3.6
+TVA3U2,Kuau Bay,TVA-3,Ulva spp.,7/10/2013,Deployed,20.92317000,-156.37350000,3.5,8.6,3.9
+TVA4U3,Kuau Bay,TVA-4,Ulva spp.,7/10/2013,Deployed,20.92430000,-156.37173000,2.8,10.0,5.1
+TVA5U2,Kuau Bay,TVA-5,Ulva spp.,7/10/2013,Deployed,20.92622000,-156.37012000,3.5,8.4,3.8
+TVA6U2,Kuau Bay,TVA-6,Ulva spp.,7/10/2013,Deployed,20.92278000,-156.37535000,3.2,9.4,4.4
+TVA7U2,Kuau Bay,TVA-7,Ulva spp.,7/10/2013,Deployed,20.92635000,-156.37040000,2.9,9.5,4.5
+TVA8U2,Kuau Bay,TVA-8,Ulva spp.,7/10/2013,Deployed,20.92652000,-156.37090000,2.3,11.3,5.3
+TVA9U2,Kuau Bay,TVA-9,Ulva spp.,7/10/2013,Deployed,20.92677000,-156.37143000,2.5,10.7,5.0
+WA10U1,Waiehu Bay,WBA-31,Ulva spp.,7/25/2013,Deployed,20.91048000,-156.48790000,1.1,23.9,7.4
+WA11U1,Waiehu Bay,WBA-32,Ulva spp.,7/25/2013,Deployed,20.91110000,-156.48633000,1.5,19.1,7.3
+WA1U1,Waiehu Bay,WBA-23,Ulva spp.,7/25/2013,Deployed,20.91673000,-156.49157000,1.0,28.3,5.5
+WA2U1,Waiehu Bay,WBA-24,Ulva spp.,7/25/2013,Deployed,20.91680000,-156.49137000,1.1,24.8,6.5
+WA3U1,Waiehu Bay,WBA-25,Ulva spp.,7/25/2013,Deployed,20.91690000,-156.49105000,1.0,26.0,6.2
+WA4U1,Waiehu Bay,WBA-26,Ulva spp.,7/25/2013,Deployed,20.91757000,-156.49003000,1.3,22.5,6.8
+WA5U1,Waiehu Bay,WBA-27,Ulva spp.,7/25/2013,Deployed,20.91623000,-156.49167000,1.0,25.5,6.6
+WA7U1,Waiehu Bay,WBA-28,Ulva spp.,7/25/2013,Deployed,20.91553000,-156.49152000,1.0,26.0,6.8
+WA8U1,Waiehu Bay,WBA-29,Ulva spp.,7/25/2013,Deployed,20.91478000,-156.49120000,1.0,27.8,5.9
+WA9U1,Waiehu Bay,WBA-30,Ulva spp.,7/25/2013,Deployed,20.91293000,-156.49038000,1.1,25.6,6.2
+HBA1-A,Honolua Bay,HBA1,Ulva spp.,8/2/2012,Deployed,21.01332700,-156.63944200,1.2,19.8,4.0
+HBA1-5-C,Honolua Bay,HBA1-5,Ulva spp.,8/2/2012,Deployed,21.01344500,-156.63949900,0.7,18.8,4.8
+HBA2-A,Honolua Bay,HBA2,Ulva spp.,8/2/2012,Deployed,21.01352700,-156.63951600,0.7,28.8,3.2
+HBA3-A,Honolua Bay,HBA3,Ulva spp.,8/2/2012,Deployed,21.01366500,-156.63958300,1.0,25.2,5.5
+HBA3-5-A,Honolua Bay,HBA3-5,Ulva spp.,8/2/2012,Deployed,21.01375200,-156.63962300,0.7,28.4,3.4
+HBA4-A,Honolua Bay,HBA4,Ulva spp.,8/2/2012,Deployed,21.01384900,-156.63973100,1.1,25.2,5.7
+HBA5-A,Honolua Bay,HBA5,Ulva spp.,8/2/2012,Deployed,21.01406900,-156.63970900,0.6,34.8,4.1
+HBA6-A,Honolua Bay,HBA6,Ulva spp.,8/2/2012,Deployed,21.01431700,-156.64004600,0.6,38.9,4.2
+MBA1-A,Maalaea Bay,MBA1,Ulva spp.,8/3/2012,Deployed,20.79197000,-156.50970000,2.9,9.3,2.2
+MBA2-A,Maalaea Bay,MBA2,Ulva spp.,8/3/2012,Deployed,20.79148000,-156.50972000,2.4,12.0,4.1
+MBA3-A,Maalaea Bay,MBA3,Ulva spp.,8/3/2012,Deployed,20.79085000,-156.50974000,2.2,12.3,4.2
+MBB1-A,Maalaea Bay,MBB1,Ulva spp.,8/3/2012,Deployed,20.79220000,-156.50960000,2.4,11.7,3.6
+MBB2-A,Maalaea Bay,MBB2,Ulva spp.,8/3/2012,Deployed,20.79203300,-156.50948300,1.6,16.6,4.7
+MBB3-A,Maalaea Bay,MBB3,Ulva spp.,8/3/2012,Deployed,20.79133300,-156.50946700,1.2,21.7,4.4
+MBB4-A,Maalaea Bay,MBB4,Ulva spp.,8/3/2012,Deployed,20.79036700,-156.50935000,0.9,29.9,4.3
+MBC1-A,Maalaea Bay,MBC1,Ulva spp.,8/3/2012,Deployed,20.79278300,-156.50860000,2.7,9.9,3.2
+MBC2-A,Maalaea Bay,MBC2,Ulva spp.,8/3/2012,Deployed,20.79245000,-156.50845000,2.7,10.1,4.0
+MBC3-A,Maalaea Bay,MBC3,Ulva spp.,8/3/2012,Deployed,20.79175000,-156.50810000,1.2,20.8,4.5
+MB3UFA,Maalaea Bay,MB3,Ulva spp.,7/29/2012,Shore-collected,20.77994278,-156.52161248,1.0,22.8,4.6
+MB3UFB,Maalaea Bay,MB3,Ulva spp.,7/29/2012,Shore-collected,20.77994278,-156.52161248,1.0,21.4,4.2
+MB3UFC,Maalaea Bay,MB3,Ulva spp.,7/29/2012,Shore-collected,20.77994278,-156.52161248,1.1,21.6,4.2
+MB6UFA,Maalaea Bay,MB6,Ulva spp.,7/29/2012,Shore-collected,20.78275357,-156.51787138,1.5,15.7,5.3
+MB6UFB,Maalaea Bay,MB6,Ulva spp.,7/29/2012,Shore-collected,20.78275357,-156.51787138,1.3,16.2,5.4
+MB6UFC,Maalaea Bay,MB6,Ulva spp.,7/29/2012,Shore-collected,20.78275357,-156.51787138,1.3,16.7,5.4
+MB8UFA,Maalaea Bay,MB8,Ulva spp.,7/29/2012,Shore-collected,20.78542488,-156.51620037,4.1,7.9,4.1
+MB8UFB,Maalaea Bay,MB8,Ulva spp.,7/29/2012,Shore-collected,20.78542488,-156.51620037,1.8,13.7,4.7
+MB8UFC,Maalaea Bay,MB8,Ulva spp.,7/29/2012,Shore-collected,20.78542488,-156.51620037,1.0,23.9,4.6
+MB10UFA,Maalaea Bay,MB10,Ulva spp.,7/29/2012,Shore-collected,20.78896053,-156.51479162,1.4,18.8,4.7
+MB10UFB,Maalaea Bay,MB10,Ulva spp.,7/29/2012,Shore-collected,20.78896053,-156.51479162,1.3,19.6,4.8
+MB10UFC,Maalaea Bay,MB10,Ulva spp.,7/29/2012,Shore-collected,20.78896053,-156.51479162,1.3,19.0,4.8
+MB12UFA,Maalaea Bay,MB12,Ulva spp.,7/29/2012,Shore-collected,20.78648033,-156.51555186,2.2,12.9,4.5
+MB12UFB,Maalaea Bay,MB12,Ulva spp.,7/29/2012,Shore-collected,20.78648033,-156.51555186,2.5,12.7,4.4
+MB12UFC,Maalaea Bay,MB12,Ulva spp.,7/29/2012,Shore-collected,20.78648033,-156.51555186,2.3,13.1,4.1
+MB14UFA,Maalaea Bay,MB14,Ulva spp.,7/29/2012,Shore-collected,20.79080036,-156.51361036,4.7,6.8,4.1
+MB14UFB,Maalaea Bay,MB14,Ulva spp.,7/29/2012,Shore-collected,20.79080036,-156.51361036,4.2,7.4,4
+MB14UFC,Maalaea Bay,MB14,Ulva spp.,7/29/2012,Shore-collected,20.79080036,-156.51361036,4.2,7.3,4
+MB21UFA,Maalaea Bay,MB21,Ulva spp.,7/31/2012,Shore-collected,20.79225362,-156.50957062,4.0,8.3,3.5
+MB21UFB,Maalaea Bay,MB21,Ulva spp.,7/31/2012,Shore-collected,20.79225362,-156.50957062,4.2,7.9,3.5
+MB21UFC,Maalaea Bay,MB21,Ulva spp.,7/31/2012,Shore-collected,20.79225362,-156.50957062,4.3,8.0,3.5
+MB23UFA,Maalaea Bay,MB23,Ulva spp.,7/31/2012,Shore-collected,20.79272200,-156.50890844,3.9,7.7,3.3
+MB23UFB,Maalaea Bay,MB23,Ulva spp.,7/31/2012,Shore-collected,20.79272200,-156.50890844,3.6,8.3,3.2
+MB23UFC,Maalaea Bay,MB23,Ulva spp.,7/31/2012,Shore-collected,20.79272200,-156.50890844,4.0,8.0,3.2
+MB25UFA,Maalaea Bay,MB25,Ulva spp.,7/31/2012,Shore-collected,20.79336656,-156.50846001,2.8,7.8,4.0
+MB25UFB,Maalaea Bay,MB25,Ulva spp.,7/31/2012,Shore-collected,20.79336656,-156.50846001,4.1,7.9,3.7
+MB25UFC,Maalaea Bay,MB25,Ulva spp.,7/31/2012,Shore-collected,20.79336656,-156.50846001,4.3,7.9,3.6
+MB27UFA,Maalaea Bay,MB27,Ulva spp.,7/31/2012,Shore-collected,20.79477221,-156.50692864,3.6,8.6,3.9
+MB27UFB,Maalaea Bay,MB27,Ulva spp.,7/31/2012,Shore-collected,20.79477221,-156.50692864,3.7,8.9,3.8
+MB27UFC,Maalaea Bay,MB27,Ulva spp.,7/31/2012,Shore-collected,20.79477221,-156.50692864,3.7,8.9,4.0
+MB29UFA,Maalaea Bay,MB29,Ulva spp.,7/31/2012,Shore-collected,20.79593570,-156.50454005,3.4,8.2,5.3
+MB29UFB,Maalaea Bay,MB29,Ulva spp.,7/31/2012,Shore-collected,20.79593570,-156.50454005,3.5,7.9,5.1
+MB29UFC,Maalaea Bay,MB29,Ulva spp.,7/31/2012,Shore-collected,20.79593570,-156.50454005,3.5,8.3,5.4
+Kw01A1,Kahului Bay,Kw01,Acanthophora spicifera,7/20/2013,Shore-collected,20.90106689,-156.44068083,3.0,8.4,3.4
+Kw01H1,Kahului Bay,Kw01,Hypnea musciformis,7/20/2013,Shore-collected,20.90106689,-156.44068083,3.3,9.0,5
+Kw01U1,Kahului Bay,Kw01,Ulva spp.,7/20/2013,Shore-collected,20.90106689,-156.44068083,3.4,8.2,5.6
+Kw02H1,Kahului Bay,Kw02,Hypnea musciformis,7/20/2013,Shore-collected,20.89974155,-156.44287203,3.1,9.2,6.7
+Kw02U1,Kahului Bay,Kw02,Ulva spp.,7/20/2013,Shore-collected,20.89974155,-156.44287203,3.4,8.7,7.4
+Kw03A1,Kahului Bay,Kw03,Acanthophora spicifera,7/20/2013,Shore-collected,20.89777750,-156.44761794,3.2,9.1,6.2
+Kw03H1,Kahului Bay,Kw03,Hypnea musciformis,7/20/2013,Shore-collected,20.89777750,-156.44761794,3.4,8.3,7.5
+Kw03U1,Kahului Bay,Kw03,Ulva spp.,7/20/2013,Shore-collected,20.89777750,-156.44761794,1.5,13.0,6.9
+Kw04H1,Kahului Bay,Kw04,Hypnea musciformis,7/20/2013,Shore-collected,20.89705423,-156.44880147,3.5,9.3,6.3
+Kw04U1,Kahului Bay,Kw04,Ulva spp.,7/20/2013,Shore-collected,20.89705423,-156.44880147,2.2,10.2,6.9
+Kw05H1,Kahului Bay,Kw05,Hypnea musciformis,7/23/2013,Shore-collected,20.89928716,-156.44533345,5.1,6.4,4.8
+Kw05U1,Kahului Bay,Kw05,Ulva spp.,7/23/2013,Shore-collected,20.89928716,-156.44533345,4.6,7.0,5.9
+Kw06U1,Kahului Bay,Kw06,Ulva spp.,7/23/2013,Shore-collected,20.89921600,-156.44642520,2.8,9.0,6.9
+Kw07A1,Kahului Bay,Kw07,Acanthophora spicifera,7/23/2013,Shore-collected,20.89889632,-156.44714210,3.6,7.6,5
+Kw07H1,Kahului Bay,Kw07,Hypnea musciformis,7/23/2013,Shore-collected,20.89889632,-156.44714210,3.5,7.7,6.2
+Kw07U1,Kahului Bay,Kw07,Ulva spp.,7/23/2013,Shore-collected,20.89889632,-156.44714210,2.3,10.1,5.5
+Kw08A1,Kahului Bay,Kw08,Acanthophora spicifera,7/23/2013,Shore-collected,20.89848233,-156.44747176,3.1,7.5,5.9
+Kw08H1,Kahului Bay,Kw08,Hypnea musciformis,7/23/2013,Shore-collected,20.89848233,-156.44747176,3.4,8.0,6.5
+Kw08U1,Kahului Bay,Kw08,Ulva spp.,7/23/2013,Shore-collected,20.89848233,-156.44747176,2.1,10.5,6.2
+Kw09A2,Kahului Bay,Kw09,Acanthophora spicifera,7/23/2013,Shore-collected,20.89691970,-156.44986077,3.1,7.3,6.7
+Kw10A1,Kahului Bay,Kw10,Acanthophora spicifera,7/23/2013,Shore-collected,20.89671652,-156.45216630,3.1,8.4,8.1
+Kw10U1,Kahului Bay,Kw10,Ulva spp.,7/23/2013,Shore-collected,20.89671652,-156.45216630,2.0,10.6,8.3
+Kw11A1,Kahului Bay,Kw11,Acanthophora spicifera,7/23/2013,Shore-collected,20.89661334,-156.45370513,4.1,7.4,13.7
+Kw11H1,Kahului Bay,Kw11,Hypnea musciformis,7/23/2013,Shore-collected,20.89661334,-156.45370513,2.6,10.0,17.8
+Kw11U1,Kahului Bay,Kw11,Ulva spp.,7/23/2013,Shore-collected,20.89661334,-156.45370513,3.9,6.8,14.4
+Kw12H1,Kahului Bay,Kw12,Hypnea musciformis,7/23/2013,Shore-collected,20.89686899,-156.45489637,3.4,8.3,11.7
+Kw12U1,Kahului Bay,Kw12,Ulva spp.,7/23/2013,Shore-collected,20.89686899,-156.45489637,2.1,10.6,13.4
+Kw13A1,Kahului Bay,Kw13,Acanthophora spicifera,7/23/2013,Shore-collected,20.89715129,-156.45657007,4.2,7.6,12.1
+Kw14A1,Kahului Bay,Kw14,Acanthophora spicifera,7/23/2013,Shore-collected,20.89729831,-156.45771302,2.8,8.1,9.9
+Kw15A1,Kahului Bay,Kw15,Acanthophora spicifera,7/23/2013,Shore-collected,20.89746854,-156.45921514,2.7,8.6,11.3
+Kw16A1,Kahului Bay,Kw16,Acanthophora spicifera,7/23/2013,Shore-collected,20.89734122,-156.46058391,3.4,7.3,11.5
+Kw16H1,Kahului Bay,Kw16,Hypnea musciformis,7/23/2013,Shore-collected,20.89734122,-156.46058391,4.1,7.2,10.6
+Kw16U1,Kahului Bay,Kw16,Ulva spp.,7/23/2013,Shore-collected,20.89734122,-156.46058391,3.3,8.7,12.3
+Kw17H1,Kahului Bay,Kw17,Hypnea musciformis,7/23/2013,Shore-collected,20.89705037,-156.46108716,4.3,6.9,10.4
+Kw17U1,Kahului Bay,Kw17,Ulva spp.,7/23/2013,Shore-collected,20.89705037,-156.46108716,3.2,9.7,11.8
+Tb01A1,Kuau Bay ,Tb01,Acanthophora spicifera,7/7/2013,Shore-collected,20.92851478,-156.37046697,3.0,9.2,3.1
+Tb01H1,Kuau Bay ,Tb01,Hypnea musciformis,7/7/2013,Shore-collected,20.92851478,-156.37046697,4.4,7.8,3.5
+Tb01U1,Kuau Bay ,Tb01,Ulva spp.,7/7/2013,Shore-collected,20.92851478,-156.37046697,1.8,11.9,3.1
+Tb02A1,Kuau Bay ,Tb02,Acanthophora spicifera,7/7/2013,Shore-collected,20.92720611,-156.37042506,2.4,10.6,3.1
+Tb02H1,Kuau Bay ,Tb02,Hypnea musciformis,7/7/2013,Shore-collected,20.92720611,-156.37042506,3.9,7.5,3.5
+Tb02U1,Kuau Bay ,Tb02,Ulva spp.,7/7/2013,Shore-collected,20.92720611,-156.37042506,1.3,14.8,3.3
+Tb03H1,Kuau Bay ,Tb03,Hypnea musciformis,7/7/2013,Shore-collected,20.92646012,-156.36981754,4.0,7.0,2.2
+Tb03U1,Kuau Bay ,Tb03,Ulva spp.,7/7/2013,Shore-collected,20.92646012,-156.36981754,3.4,8.1,2.4
+Tb04H1,Kuau Bay ,Tb04,Hypnea musciformis,7/7/2013,Shore-collected,20.92609894,-156.36975241,4.6,6.8,3.1
+Tb04U1,Kuau Bay ,Tb04,Ulva spp.,7/7/2013,Shore-collected,20.92609894,-156.36975241,3.3,8.2,2.6
+Tb05H1,Kuau Bay ,Tb05,Hypnea musciformis,7/7/2013,Shore-collected,20.92563936,-156.37029354,3.7,7.1,3.2
+Tb05U1,Kuau Bay ,Tb05,Ulva spp.,7/7/2013,Shore-collected,20.92563936,-156.37029354,3.0,9.1,2.5
+Tb06A1,Kuau Bay ,Tb06,Acanthophora spicifera,7/7/2013,Shore-collected,20.92498457,-156.37121715,3.2,7.3,2.4
+Tb06H1,Kuau Bay ,Tb06,Hypnea musciformis,7/7/2013,Shore-collected,20.92498457,-156.37121715,4.0,6.7,3.7
+Tb06U1,Kuau Bay ,Tb06,Ulva spp.,7/7/2013,Shore-collected,20.92498457,-156.37121715,3.1,8.6,3.6
+Tb07H1,Kuau Bay ,Tb07,Hypnea musciformis,7/7/2013,Shore-collected,20.92402426,-156.37126643,4.0,7.0,4
+Tb07U1,Kuau Bay ,Tb07,Ulva spp.,7/7/2013,Shore-collected,20.92402426,-156.37126643,3.1,8.2,2.5
+Tb08A1,Kuau Bay ,Tb08,Acanthophora spicifera,7/7/2013,Shore-collected,20.92383960,-156.37205408,3.9,6.5,1.9
+Tb08H1,Kuau Bay ,Tb08,Hypnea musciformis,7/7/2013,Shore-collected,20.92383960,-156.37205408,4.6,7.2,3.2
+Tb08U1,Kuau Bay ,Tb08,Ulva spp.,7/7/2013,Shore-collected,20.92383960,-156.37205408,3.4,7.9,3.2
+Tb09A1,Kuau Bay ,Tb09,Acanthophora spicifera,7/7/2013,Shore-collected,20.92309487,-156.37256940,4.1,6.2,0.8
+Tb09H1,Kuau Bay ,Tb09,Hypnea musciformis,7/7/2013,Shore-collected,20.92309487,-156.37256940,4.2,6.9,2.4
+Tb09U1,Kuau Bay ,Tb09,Ulva spp.,7/7/2013,Shore-collected,20.92309487,-156.37256940,3.6,7.5,2.2
+Tb10H1,Kuau Bay ,Tb10,Hypnea musciformis,7/7/2013,Shore-collected,20.92268466,-156.37327742,4.6,6.6,2.4
+Tb10U1,Kuau Bay ,Tb10,Ulva spp.,7/7/2013,Shore-collected,20.92268466,-156.37327742,4.1,7.8,2.8
+Tb11H1,Kuau Bay ,Tb11,Hypnea musciformis,7/7/2013,Shore-collected,20.92254996,-156.37369475,4.1,6.2,3.3
+Tb11U1,Kuau Bay ,Tb11,Ulva spp.,7/7/2013,Shore-collected,20.92254996,-156.37369475,2.9,8.4,2.6
+Tb12A1,Kuau Bay ,Tb12,Acanthophora spicifera,7/28/2013,Shore-collected,20.92233780,-156.37420900,2.9,8.1,2.7
+Tb12U1,Kuau Bay ,Tb12,Ulva spp.,7/28/2013,Shore-collected,20.92233780,-156.37420900,2.6,8.7,2.9
+Tb13H1,Kuau Bay ,Tb13,Hypnea musciformis,7/28/2013,Shore-collected,20.92247520,-156.37520780,3.8,7.1,2.5
+Tb13U1,Kuau Bay ,Tb13,Ulva spp.,7/28/2013,Shore-collected,20.92247520,-156.37520780,3.0,8.9,2.2
+Wu01A1,Waiehu Bay,Wu01,Acanthophora spicifera,7/22/2013,Shore-collected,20.91102677,-156.48565217,2.0,13.2,5.5
+Wu02A1,Waiehu Bay,Wu02,Acanthophora spicifera,7/22/2013,Shore-collected,20.90996445,-156.48671776,1.9,15.3,5.3
+Wu03U1,Waiehu Bay,Wu03,Ulva spp.,7/22/2013,Shore-collected,20.91030794,-156.48816448,0.7,34.5,4.7
+Wu04A1,Waiehu Bay,Wu04,Acanthophora spicifera,7/22/2013,Shore-collected,20.91441851,-156.49121960,1.3,16.8,4.5
+Wu05A1,Waiehu Bay,Wu05,Acanthophora spicifera,7/22/2013,Shore-collected,20.91537111,-156.49163442,1.3,16.5,5
+Wu06A1,Waiehu Bay,Wu06,Acanthophora spicifera,7/22/2013,Shore-collected,20.91621869,-156.49186442,2.7,9.8,5.4
+Wu07A1,Waiehu Bay,Wu07,Acanthophora spicifera,7/22/2013,Shore-collected,20.91667743,-156.49180164,1.8,13.0,4.6
+Wu08A1,Waiehu Bay,Wu08,Acanthophora spicifera,7/22/2013,Shore-collected,20.91675220,-156.49155864,1.2,18.8,4.4
+Wu09A1,Waiehu Bay,Wu09,Acanthophora spicifera,7/22/2013,Shore-collected,20.91682294,-156.49140727,1.4,16.6,4.4
+Wu10A1,Waiehu Bay,Wu10,Acanthophora spicifera,7/22/2013,Shore-collected,20.91691053,-156.49103863,1.3,18.1,5.1
+Wu11A1,Waiehu Bay,Wu11,Acanthophora spicifera,7/22/2013,Shore-collected,20.91706334,-156.49055768,1.3,20.1,4.6
+Wu12A1,Waiehu Bay,Wu12,Acanthophora spicifera,7/22/2013,Shore-collected,20.91732913,-156.49118934,1.6,15.4,5.2
+Wu13A1,Waiehu Bay,Wu13,Acanthophora spicifera,7/22/2013,Shore-collected,20.91713073,-156.49146468,1.7,14.2,5.1
+MauiPT1,Keahamoe Bay,MPT0,Ulva spp.,7/25/2012,Shore-collected,21.25646400,-157.79948800,0.5,39.4,6
+MauiPT2,Keahamoe Bay,MPT0,Ulva spp.,7/25/2012,Shore-collected,21.25646400,-157.79948800,0.6,39.0,5.1
+MauiPT3,Keahamoe Bay,MPT0,Ulva spp.,7/25/2012,Shore-collected,21.25646400,-157.79948800,0.5,44.8,5.5
+MPT1U4,Keahamoe Bay,MPT1,Ulva spp.,6/28/2013,Shore-collected,21.25646400,-157.79948800,1.5,18.6,8.8
+MPT1U5,Keahamoe Bay,MPT1,Ulva spp.,6/28/2013,Shore-collected,21.25646400,-157.79948800,2.1,15.0,9
+MPT1U2,Keahamoe Bay,MPT1,Ulva spp.,6/28/2013,Shore-collected,21.25646400,-157.79948800,1.3,21.2,8.3
+MPT2U1,Keahamoe Bay,MPT2,Ulva spp.,7/11/2013,Shore-collected,21.25646400,-157.79948800,1.8,16.1,9
+MPT2U2,Keahamoe Bay,MPT2,Ulva spp.,7/11/2013,Shore-collected,21.25646400,-157.79948800,1.9,15.3,9.2
+MPT2U3,Keahamoe Bay,MPT2,Ulva spp.,7/11/2013,Shore-collected,21.25646400,-157.79948800,1.4,19.3,8.5
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,"WGS84 is the datum for latitude and longitude
+",,,,
