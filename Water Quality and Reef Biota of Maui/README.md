@@ -7,7 +7,9 @@
 
 ## Raster Manipulation & Image Processing
 
-![Raster Classification](Raster_classification.png)
+![Raster Classification](ImageAnalysis/Raster_classification.png)
+
+![Raster Classification](ImageAnalysis/Raster_classification.png)
 
 ![Cropping everything but the island being studied](ImageAnalysis/landsat_bands_1-6_cropped.png)
 
