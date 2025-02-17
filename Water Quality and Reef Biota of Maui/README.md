@@ -22,5 +22,6 @@ D - Māʻalaea,
 E - Kūʻau,
 F - Waiehu
 
-![Coastline Extraction, Masking & distance calculation](ImageAnalysis/Transition Map.png)
+![Locations on Maui studied](ImageAnalysis/Transition_Map.png)
+
 
