@@ -22,5 +22,5 @@ D - Māʻalaea,
 E - Kūʻau,
 F - Waiehu
 
+![Locations on Maui studied](ImageAnalysis/Maoi_sites_studied.png)
 
-## 
