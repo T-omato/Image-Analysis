@@ -5,14 +5,11 @@
 ### Visualization of landsat bands 1 - 6
 ![Landsat images](ImageAnalysis/Bands_1-6.png)
 
-### Colorization of images
-![Landsat combination (r-B5, g-B4, b-B3)](ImageAnalysis/Landsat_RGB_file.png)
-
-### Image cropping - only Maui
+### Data preprocessing and cleaning - only Maui
 
 ![Cropping everything but the island being studied](ImageAnalysis/landsat_bands_1-6_cropped.png)
 
-## Visualizing Maui
+## Visualizing Maui study points
 
 ![Locations on Maui studied](ImageAnalysis/Maoi_sites_studied.png)
 A - Honolua,
@@ -22,6 +19,8 @@ D - Māʻalaea,
 E - Kūʻau,
 F - Waiehu
 
-![Locations on Maui studied](ImageAnalysis/Transition_Map.png)
+## Coastline Extraction, Masking & Distance Calculation
+![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
 
+Transition map of the coastline allows to visualize and calculate distances on water between study points. Here the cost map for the distance between Māʻalaea, and Kūʻau is shown on a colorized map of the island where the rgb channels correspond to bands #: r = "B5", g = "B4", b = "B3".
 
