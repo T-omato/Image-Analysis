@@ -5,7 +5,9 @@
 ### Visualization of landsat bands 1 - 6
 ![Landsat images](ImageAnalysis/Bands_1-6.png)
 
-### Data preprocessing and cleaning - only Maui
+## Raster Manipulation & Image Processing
+
+![Raster Classification](Raster_classification.png)
 
 ![Cropping everything but the island being studied](ImageAnalysis/landsat_bands_1-6_cropped.png)
 
