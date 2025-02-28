@@ -22,18 +22,13 @@ This project is taken from PMCID: PMC5094668  PMID: 27812171. The authors used A
 ### Visualization of landsat bands 1 - 6
 ![Landsat images](ImageAnalysis/Bands_1-6.png)
 
-## Raster Manipulation & Image Processing
+## Raster Processing
 
 - Stacking raster layers to create multispectral images (R = B4, G = B3, B = B2)
 - Cropping and masking images (reducing image size, isolating AOIs).
 - Change coordinate reference system (CRS) and visualize breaks on cropped map. 
 
 ![Raster Classification](ImageAnalysis/cropping.png)
-
-- Histogram-based analysis for feature identification.
-- K-means clustering for land classification
-
-![Raster Classification](ImageAnalysis/Raster_classification.png)
 
 ## Visualizing Maui study points
 
@@ -44,6 +39,16 @@ C - Kahului,
 D - Māʻalaea,
 E - Kūʻau,
 F - Waiehu
+
+## Image processing
+
+- Histogram-based analysis for feature identification.
+
+![Raster Classification](ImageAnalysisPixel_Frequency_per_band)
+
+- K-means clustering for land classification
+
+![Raster Classification](ImageAnalysis/Raster_classification.png)
 
 ## Coastline Extraction, Masking & Distance Calculation
 
