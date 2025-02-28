@@ -1,11 +1,11 @@
 # Image-Analysis
-This project analyzes Landsat 8 satellite imagery to classify land, extract coastlines, and compute least-cost paths using `gdistance`. The objective is to recreate the statistical analysis using extracted information from the images give by the authors and reperform it independently.
+This project analyzes Landsat 8 satellite imagery to classify land, extract coastlines, and compute least-cost paths using `terra`, `sf`, and `gdistance`. 
 My personal objective with the project is learning how to perform digital image analysis in R using the raster, terra, sp and gdistance packages, and to do this I will recreate the analysis performed in the paper. 
 
 ## Technologies Used  
 - R (`terra`, `factoextra`, `gdistance`, `sp`)  
 - Satellite Imagery (Landsat 8)  
-- Spatial Analysis (K-means clustering, raster classification)
+- Spatial Analysis (K-means clustering, raster classification, transition matrix, least cost distance)
 
 ## Impact of Submarine Groundwater Discharge on Marine Water Quality and Reef Biota of Maui
 In the paper the authors analyzed how submarine groundwater discharge (SGD) can transport potentially large loads of nutrients and other land-based contaminants to coastal ecosystems, studying the relationships between water and algal tissue nutrients. They employed algal bioassays, benthic community analysis, and geochemical methods to examine water quality and community parameters of nearshore reefs adjacent to a variety of potential, land-based nutrient sources on Maui. 
