@@ -44,7 +44,7 @@ F - Waiehu
 
 - Histogram-based analysis for feature identification.
 
-![Raster Classification](ImageAnalysis/Pixel_Frequency_per_band)
+![Raster Classification](ImageAnalysis/Pixel_Frequency_per_band.png)
 
 - K-means clustering for land classification
 
