@@ -24,9 +24,9 @@ This project is taken from PMCID: PMC5094668  PMID: 27812171. The authors used A
 
 ## Raster Manipulation & Image Processing
 
-- Stacking raster layers to create multispectral images.
+- Stacking raster layers to create multispectral images (R = B4, G = B3, B = B2)
 - Cropping and masking images (reducing image size, isolating AOIs).
-- Extracting features from raster datasets
+- Change coordinate reference system (CRS) and visualize breaks on cropped map. 
 
 ![Raster Classification](ImageAnalysis/cropping.png)
 
