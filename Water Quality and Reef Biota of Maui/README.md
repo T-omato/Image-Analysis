@@ -2,7 +2,7 @@
 
 # Image-Analysis
 This project analyzes Landsat 8 satellite imagery to classify land, extract coastlines, and compute least-cost paths using `terra`, `sf`, and `gdistance`. 
-My personal objective with the project is learning how to perform digital image analysis in R using the raster, terra, sp and gdistance packages, and to do this I will recreate the analysis performed in the paper. 
+My personal objective with the project is learning how to perform digital image analysis in R using the raster, terra, sp and gdistance packages. In the paper, the authors aim to quantify the effect of agricultural leach offs on benthic and algal species. Therefore it was ideal to calculate the distances between study sites using the coastline in order to evaluate quantitatively the impacts on different sites based on the analyzed features. 
 
 ## Technologies Used  
 - R (`terra`, `factoextra`, `gdistance`, `sp`)  
