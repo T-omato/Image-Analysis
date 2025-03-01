@@ -65,9 +65,9 @@ F - Waiehu
 - Rasterizing vector data for further analysis.
 - Calculating conductance values on which the transition matrix should run through
 
- ![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/ConductanceValues_tr_matrix.png) 
+ ![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Conductance_Values_tr_matrix.png) 
 
 - Computing least-cost paths and transition matrices for spatial movement.
 
-![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/TransitionMap.png)
+![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
 
