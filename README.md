@@ -1,16 +1,20 @@
 # Image-Analysis
 This project analyzes Landsat 8 satellite imagery to classify land, extract coastlines, and compute least-cost paths using `terra`, `sf`, and `gdistance`. 
-My personal objective with the project is learning how to perform digital image analysis in R using the raster, terra, sp and gdistance packages, and to do this I will recreate the analysis performed in the paper. 
 
 ## Technologies Used  
 - R (`terra`, `factoextra`, `gdistance`, `sp`)  
 - Satellite Imagery (Landsat 8)  
 - Spatial Analysis (K-means clustering, raster classification, transition matrix, least cost distance)
+- QGIS for further layer classification
+- Neural Networks
 
-## Impact of Submarine Groundwater Discharge on Marine Water Quality and Reef Biota of Maui
-In the paper the authors analyzed how submarine groundwater discharge (SGD) can transport potentially large loads of nutrients and other land-based contaminants to coastal ecosystems, studying the relationships between water and algal tissue nutrients. They employed algal bioassays, benthic community analysis, and geochemical methods to examine water quality and community parameters of nearshore reefs adjacent to a variety of potential, land-based nutrient sources on Maui. 
+## Projects
 
-This project is taken from PMCID: PMC5094668  PMID: 27812171. The authors used ArcGIS, ArcMap for the geospatial analysis, and SigmaPlot 11 for statistical analysis. The data of the papers is available to the public through the NOAA National Centers for Environmental Information (NCEI). The NCEI Accession Number 0156294 is now publicly accessible online via the NCEI Ocean Archive System at http://accession.nodc.noaa.gov/0156294. These data are discoverable via the NCEI Geoportal (http://data.nodc.noaa.gov/geoportal).
+### Impact of Submarine Groundwater Discharge on Marine Water Quality and Reef Biota of Maui
+
+The authors aimed at studying the effects of agricultural leachoff on marine life at different points on the island of Maui. They used ArcGIS to add features and locate distances on the map. My personal objective was perform the geo-imaging on R instead of ArcGIS. 
+The project digitizes landsat data from the island on the year the study was performed. It crops, cleans, and projects CRS onto the data. It creates a transition matrix on the island's coastline in order to evaluate quantitatively the effects distances have on benthic life with respect to large leachoff areas. 
+The final product of this project shows and stores the distance between points on the coastline. 
 
 
 
