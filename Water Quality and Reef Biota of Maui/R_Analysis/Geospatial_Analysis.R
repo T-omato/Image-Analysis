@@ -4,7 +4,7 @@ library(sf)
 library(gdistance)
 library(factoextra)
 ################################################################################
-setwd()
+setwd("C:\\Users\\pablo\\OneDrive\\Documents\\Personal\\Projects\\Carbon ating")
 ###############################################################################
 source("load_data.R")
 #Generic plot for plotting B4, B3, B2 bandwidths and showing natural color.
