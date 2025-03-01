@@ -47,17 +47,27 @@ F - Waiehu
 ![Raster Classification](ImageAnalysis/Pixel_Frequency_per_band.png)
 
 - K-means clustering for land classification
+- Classification matrices based on kmeans center points and feature classification
 
 ![Raster Classification](ImageAnalysis/Raster_classification.png)
 
-## Coastline Extraction, Masking & Distance Calculation
+## Coastline Extraction, Masking
 
 - Identifying land-water boundaries using classification.
 - Creating masks for land and water.
 - Extracting coastline features using spatial operations.
 - Buffering coastlines to define zones.
+
+![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Coastline.png)
+
+## Transition matrix
+
 - Rasterizing vector data for further analysis.
+- Calculating conductance values on which the transition matrix should run through
+
+ ![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/ConductanceValues_tr_matrix.png) 
+
 - Computing least-cost paths and transition matrices for spatial movement.
 
-![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
+![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/TransitionMap.png)
 
