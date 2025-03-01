@@ -68,6 +68,7 @@ F - Waiehu
  ![Transition Matrix Conductance Values](ImageAnalysis/Conductance_Values_tr_matrix.png) 
 
 - Computing least-cost paths and transition matrices for spatial movement.
+- Title updates to show which to points are being connected.
 
 ![Coastline Extraction, Masking & Distance Calculation](ImageAnalysis/Transition_Map.png)
 
