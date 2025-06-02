@@ -1,0 +1,5 @@
+Landsat Image Tiling & Classification
+
+This project aims at obtaining landsat images, tiling them from their original size into 512 x 512 or larger sizes, and classifying them firstly
+using k-means unsupervised classification, followed by adjusting the classifications with QGis, and finally feeding these classified tiles into
+an ML algorithm. 
