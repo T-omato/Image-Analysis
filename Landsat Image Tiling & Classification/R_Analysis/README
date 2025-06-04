@@ -1,0 +1,26 @@
+Tiling_functions.R are all the functions used to tile the landsat images.
+
+The functions group together the following actions:
+
+prepare_landsat_stack():
+
+- Rasterizes the Landsat images, and removes verbose from names only leaving the "band" number
+to make band calling easier. Sets up the working directory.
+
+tiling_landsat():
+
+- Tiles the previously rasterized landsat images into the specified squares 256, 512, 1024 px sizes.
+
+setup_outputFolder():
+
+- Sets up the output folder where the polygonized tiles will be saved for futur reference.
+
+analyze_landsat_tiles():
+
+- Creates and stores in the output folder the polygonized tiles. The final output images are
+png images that show the barplot of the clustered k-means centers for the analyzed tile,
+the newly polygonized tiles based on k-means centers, and the original vegetation indez tile that
+was being analyzed. 
+
+All of these functions will ultimately create a folder through which the user can choose
+which tiles are best and easiest to classify in QGis for further ML training. 
